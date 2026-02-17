@@ -59,7 +59,7 @@ body {
 /* HERO */
 .hero {
     height: 80vh;
-    background-image: url("https://images.unsplash.com/photo-1549880338-65ddcdfd017b");
+    background-image: url("https://lunares.pl/p/72897/fototapeta-krakow-stare-miasto-rynek-kosciol-mariacki-i-sukiennice-2.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -126,5 +126,6 @@ footer {
     text-align: center;
     padding: 20px;
 }
+
 
 
